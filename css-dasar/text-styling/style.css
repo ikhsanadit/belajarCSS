@@ -1,0 +1,18 @@
+/* Belajar mengenai text styling */
+
+h1{
+    font-size: 150px;
+    color: rgb(115, 80, 212);
+    text-align: center;
+    text-decoration: line-through;
+}
+p{
+    text-indent: 100px;
+    text-transform: capitalize;
+    word-spacing: 15px;
+    letter-spacing: 2px;
+}
+
+a{
+    text-decoration: none;
+}

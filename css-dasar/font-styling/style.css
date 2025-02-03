@@ -1,0 +1,17 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: normal;
+    font-variant: small-caps;
+    font-style: italic;
+}
+.p1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+    line-height: 50px;
+}
+
+.p2{
+    font: oblique normal bolder 16px/18px Georgia, 'Times New Roman', Times, serif;
+}
